@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\desktop\c#\проверка\lab8\lab8\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\c#\проверка\lab8\lab8\source.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  lab8.vcxproj -> C:\Users\User\Desktop\C#\Проверка\lab8\Debug\lab8.exe
