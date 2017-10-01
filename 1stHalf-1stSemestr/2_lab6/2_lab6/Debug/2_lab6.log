@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\desktop\c#\проверка\2_lab6\2_lab6\source.cpp(18): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\user\desktop\c#\проверка\2_lab6\2_lab6\source.cpp(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\user\desktop\c#\проверка\2_lab6\2_lab6\source.cpp(7): warning C4101: 'sum': unreferenced local variable
+  2_lab6.vcxproj -> C:\Users\User\Desktop\C#\Проверка\2_lab6\Debug\2_lab6.exe
