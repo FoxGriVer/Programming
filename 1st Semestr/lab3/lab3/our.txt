@@ -1,0 +1,5 @@
+   dima  1  3  3
+  dasha  4  4  5
+  kolia  5  5  5
+  pasha  1  1  4
+  katia  2  3  4
